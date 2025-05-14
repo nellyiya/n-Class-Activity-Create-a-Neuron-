@@ -1,1 +1,6 @@
-# n-Class-Activity---Create-a-Neuron-
+
+
+## Authors
+
+Joan Keza
+Nelly Iyabikoze
